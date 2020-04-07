@@ -77,3 +77,5 @@ C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\Od
 C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.csproj.CopyComplete
 C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.dll
 C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.pdb
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.dll
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.pdb
