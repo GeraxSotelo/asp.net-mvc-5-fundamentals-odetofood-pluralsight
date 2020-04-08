@@ -79,3 +79,14 @@ C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\Od
 C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.pdb
 C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.dll
 C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.pdb
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.dll
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.Mvc.dll
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.pdb
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.xml
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.Mvc.xml
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Threading.Tasks.Extensions.xml
