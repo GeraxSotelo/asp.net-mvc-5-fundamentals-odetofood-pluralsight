@@ -9,5 +9,9 @@ namespace OdeToFood.Web.Api
 {
     public class RestaurantsController : ApiController
     {
+        public string Get()
+        {
+            return "Hello, World";
+        }
     }
 }

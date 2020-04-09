@@ -90,3 +90,9 @@ C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\Od
 C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.dll
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.xml
+C:\Users\Sotelo\Documents\Pluralsight\ASP.NET MVC 5 Fundamentals\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.xml
