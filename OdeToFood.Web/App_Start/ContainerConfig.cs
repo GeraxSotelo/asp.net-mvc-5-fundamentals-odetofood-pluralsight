@@ -22,6 +22,9 @@ namespace OdeToFood.Web
             //from Global.asax.cs
             builder.RegisterControllers(typeof(MvcApplication).Assembly);
 
+            //register api controllers
+            builder.RegisterApiControllers(typeof(MvcApplication).Assembly);
+
             //register type InMemoryRestaurantData and use it whenever someone asks for an object that implements IRestaurantData
             builder.RegisterType<InMemoryRestaurantData>().As<IRestaurantData>().SingleInstance();
 
