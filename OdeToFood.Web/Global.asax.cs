@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
-using System.Web.Http;
+using System.Web.Http; // dealing with a web api
 
 namespace OdeToFood.Web
 {
@@ -19,7 +19,8 @@ namespace OdeToFood.Web
             GlobalConfiguration.Configure(WebApiConfig.Register);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
-            ContainerConfig.RegisterContainer();
+            // pass in the web api configuration
+            ContainerConfig.RegisterContainer(GlobalConfiguration.Configuration);
         }
     }
 }
